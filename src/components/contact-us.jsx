@@ -145,7 +145,7 @@ function ContactUs() {
                 Come say hello at our office.
               </p>
               <p className="mt-2 text-blue-500 dark:text-blue-400">
-                1512 W 19th St Jacksonville, FL 32209 US
+                89 Woodlands Rd, Glasgow G3 6HB, United Kingdom
               </p>
             </div>
           </div>
